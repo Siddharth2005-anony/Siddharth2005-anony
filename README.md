@@ -2,7 +2,7 @@
 
 I am a **Data Science & AI/ML Engineer** focused on turning data and machine learning ideas into practical, deployable systems.
 
-My interests span the complete journey from **data exploration and statistical analysis to machine learning, AI applications, and production deployment**. I enjoy working across disciplines rather than treating data science, machine learning, and software engineering as isolated areas.
+My interests span the complete journey from **data exploration and statistical analysis to machine learning, AI applications, and production deployment**. My thinking is in production terms and real world use cases.
 
 ### What I Work With
 
@@ -43,13 +43,7 @@ Rather than stopping at *"the model works"*, I am interested in questions such a
 - How can it be deployed efficiently?
 - How can the system be maintained and improved?
 
-### Engineering Philosophy
-
 > **Understand the data. Build the model. Engineer the system. Deploy it for real use.**
-
-I believe strong AI/ML engineering requires more than knowing algorithms or frameworks. It requires understanding the **data behind the problem, the models built from it, and the systems that eventually serve those models**.
-
-That is why I continuously work across **Data Science, Machine Learning, AI Engineering, and MLOps**, building projects that allow me to learn each layer while connecting them together.
 
 ### Current Focus
 
@@ -61,8 +55,4 @@ That is why I continuously work across **Data Science, Machine Learning, AI Engi
 - Cloud-native AI/ML deployment
 - AI-powered automation
 
-### Open to
-
-I am interested in opportunities across **Data Science, Machine Learning, AI Engineering, MLOps, LLM applications, and AI infrastructure**.
-
-My goal is to become an engineer who can take a problem from **raw data → meaningful insight → intelligent model → production-ready system**.
+ 
